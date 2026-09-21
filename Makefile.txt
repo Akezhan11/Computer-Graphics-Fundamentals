@@ -1,0 +1,18 @@
+    CXX = g++
+    CC = gcc
+
+    CXXFLAGS = -Wall -I./include -std=c++11
+    CFLAGS = -Wall -I./include
+
+    LDFLAGS = -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl
+
+    all: red_triangle
+
+    red_triangle: red_triangle.cpp glad.o
+        $(CXX) $(CXXFLAGS) red_triangle.cpp glad.o -o red_triangle $(LDFLAGS)
+
+    glad.o: glad.c
+        $(CC) $(CFLAGS) -c glad.c -o glad.o
+
+    clean:
+        rm -f red_triangle blue_square glad.o

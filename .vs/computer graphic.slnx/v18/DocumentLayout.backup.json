@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akeja\\source\\repos\\computer graphic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31BE1795-0A6D-404D-8B70-BB56023DDDAC}|computer graphic.vcxproj|C:\\Users\\akeja\\source\\repos\\computer graphic\\Task2Part2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31BE1795-0A6D-404D-8B70-BB56023DDDAC}|computer graphic.vcxproj|solutionrelative:Task2Part2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BE1795-0A6D-404D-8B70-BB56023DDDAC}|computer graphic.vcxproj|C:\\Users\\akeja\\source\\repos\\computer graphic\\Task2Part1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31BE1795-0A6D-404D-8B70-BB56023DDDAC}|computer graphic.vcxproj|solutionrelative:Task2Part1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BE1795-0A6D-404D-8B70-BB56023DDDAC}|computer graphic.vcxproj|C:\\Users\\akeja\\source\\repos\\computer graphic\\red_triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31BE1795-0A6D-404D-8B70-BB56023DDDAC}|computer graphic.vcxproj|solutionrelative:red_triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task2Part2.cpp",
+              "DocumentMoniker": "C:\\Users\\akeja\\source\\repos\\computer graphic\\Task2Part2.cpp",
+              "RelativeDocumentMoniker": "Task2Part2.cpp",
+              "ToolTip": "C:\\Users\\akeja\\source\\repos\\computer graphic\\Task2Part2.cpp",
+              "RelativeToolTip": "Task2Part2.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-21T19:23:02.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task2Part1.cpp",
+              "DocumentMoniker": "C:\\Users\\akeja\\source\\repos\\computer graphic\\Task2Part1.cpp",
+              "RelativeDocumentMoniker": "Task2Part1.cpp",
+              "ToolTip": "C:\\Users\\akeja\\source\\repos\\computer graphic\\Task2Part1.cpp",
+              "RelativeToolTip": "Task2Part1.cpp",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-21T19:17:10.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "red_triangle.cpp",
+              "DocumentMoniker": "C:\\Users\\akeja\\source\\repos\\computer graphic\\red_triangle.cpp",
+              "RelativeDocumentMoniker": "red_triangle.cpp",
+              "ToolTip": "C:\\Users\\akeja\\source\\repos\\computer graphic\\red_triangle.cpp",
+              "RelativeToolTip": "red_triangle.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAACEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-21T18:59:18.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
